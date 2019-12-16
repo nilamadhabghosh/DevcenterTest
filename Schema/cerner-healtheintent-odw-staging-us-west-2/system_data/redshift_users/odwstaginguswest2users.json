@@ -1,8 +1,1 @@
-{
-    "users":[
-        {"username": "abc","password": "ostagingwest2"},
-        {"username": "xyz","password": "xyz"}
-    ]
-}
-
-
+{"users":[{"username":"abc","password":"ostagingwest2"},{"username":"xyz","password":"xyz"},{"username":"asdfg","password":"Qwerty@12345"}]}
